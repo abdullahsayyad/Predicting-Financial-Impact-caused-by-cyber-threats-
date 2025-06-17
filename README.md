@@ -1,4 +1,6 @@
-# Predicting-Financial-Impact-caused-by-cyber-threats
+# Cyber threat financial impact
+
+
 
 This project demonstrates regression analysis using Scikit-Learn. It includes:
 
